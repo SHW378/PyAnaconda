@@ -219,7 +219,7 @@ print(f"El intervalo de confianza para la varianza poblacional puede estar entre
 ---
 
 ## 3. Lógica de Decisión para Intervalos de Confianza de la Media
-<img width="1265" height="682" alt="image" src="https://github.com/user-attachments/assets/90727b2c-f507-4a5b-9476-7cb2b7e934a6" />
+<img width="1000" height="682" alt="image" src="https://github.com/user-attachments/assets/90727b2c-f507-4a5b-9476-7cb2b7e934a6" />
 
 
 Para decidir si usar la distribución Z o t para el intervalo de confianza de la media, sigue este flujo:
